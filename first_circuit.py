@@ -22,5 +22,3 @@ print("Measurement outcomes:", counts)
 # Draw the circuit
 print("\nCircuit diagram:")
 print(qc.draw())
-# Draw the circuit
-print(qc.draw('text'))
