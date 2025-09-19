@@ -40,6 +40,4 @@ This repository contains my 4-week internship research at **CETQAP**, exploring 
 - Added a fallback mechanism to automatically switch to the simulator if the real backend is unavailable.  
 - Results showed distinct state distributions that reflected the fractal-lattice encoding patterns, serving as a conceptual experiment in **quantum obfuscation**.
 
----
 
-## Project structure (example)
